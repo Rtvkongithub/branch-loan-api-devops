@@ -1,0 +1,7 @@
+node_modules/
+pgdata/
+nginx/ssl/
+.env*
+*.pem
+*.key
+*.crt
